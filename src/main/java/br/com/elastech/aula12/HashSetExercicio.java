@@ -8,10 +8,11 @@ public class HashSetExercicio {
 
     public static void main(String[] args) {
 
-        HashSet<String> nomes = new HashSet<>();
         String divisor = "-----------------------";
 
         // 1
+
+        HashSet<String> nomes = new HashSet<>();
 
         nomes.add("Galadriel");
         nomes.add("Éowyn");
