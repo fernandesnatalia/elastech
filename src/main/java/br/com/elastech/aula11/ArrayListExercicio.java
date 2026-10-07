@@ -40,7 +40,6 @@ public class ArrayListExercicio {
 
         System.out.println(divisor);
 
-
         // 4
         ArrayList<String> cidades = new ArrayList<>();
 
