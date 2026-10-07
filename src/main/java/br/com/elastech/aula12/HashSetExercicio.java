@@ -76,7 +76,7 @@ public class HashSetExercicio {
         frutas.add("Uva");
         frutas.add("Maçã");
 
-        for (String fruta: frutas) {
+        for (String fruta : frutas) {
             System.out.println(fruta);
         }
 
