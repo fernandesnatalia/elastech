@@ -37,7 +37,7 @@ public class InterfaceExercicio {
 
         for(Animal animal : animais) {
             animal.emitirSom();
-        };
+        }
 
         System.out.println(divisor);
 
