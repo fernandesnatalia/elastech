@@ -17,10 +17,11 @@ public class PolimorfismoExercicio {
 
         Calculadora calculadora = new Calculadora();
 
-        System.out.println(
-                "Área do quadrado: " + calculadora.calcularArea(5.0) +
-                "\nÁrea do retângulo: " + calculadora.calcularArea(4.0, 6.0) +
-                "\nÁrea do círculo: %.2f%n" + calculadora.calcularArea(3)
+        System.out.printf(
+                "Área do quadrado: %.1f%nÁrea do retângulo: %.1f%nÁrea do círculo: %.2f%n",
+                calculadora.calcularArea(5.0),
+                calculadora.calcularArea(4.0, 6.0),
+                calculadora.calcularArea(3)
         );
 
         System.out.println(divisor);
