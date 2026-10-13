@@ -1,4 +1,6 @@
-package br.com.elastech.aula14.heranca;
+package br.com.elastech.aula14.heranca.escola;
+
+import br.com.elastech.aula14.heranca.Pessoa;
 
 public class Professora extends Pessoa {
 
