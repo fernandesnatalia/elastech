@@ -1,7 +1,7 @@
-package br.com.elastech.aula14.empresa;
+package br.com.elastech.aula14.heranca.empresa;
 
-import br.com.elastech.aula14.empresa.interfaces.Exportavel;
-import br.com.elastech.aula14.empresa.interfaces.Notificavel;
+import br.com.elastech.aula14.heranca.empresa.interfaces.Exportavel;
+import br.com.elastech.aula14.heranca.empresa.interfaces.Notificavel;
 
 public class Gerente extends Funcionario implements Notificavel, Exportavel {
 

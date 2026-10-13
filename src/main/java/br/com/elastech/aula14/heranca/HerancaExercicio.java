@@ -1,9 +1,7 @@
-package br.com.elastech.aula14;
+package br.com.elastech.aula14.heranca;
 
-import br.com.elastech.aula14.aluna.Aluna;
-import br.com.elastech.aula14.empresa.Diretora;
-import br.com.elastech.aula14.empresa.Gerente;
-import br.com.elastech.aula14.professora.Professora;
+import br.com.elastech.aula14.heranca.empresa.Diretora;
+import br.com.elastech.aula14.heranca.empresa.Gerente;
 
 public class HerancaExercicio {
 

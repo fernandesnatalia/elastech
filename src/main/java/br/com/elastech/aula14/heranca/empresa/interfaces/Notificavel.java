@@ -1,4 +1,4 @@
-package br.com.elastech.aula14.empresa.interfaces;
+package br.com.elastech.aula14.heranca.empresa.interfaces;
 
 public interface Notificavel {
 

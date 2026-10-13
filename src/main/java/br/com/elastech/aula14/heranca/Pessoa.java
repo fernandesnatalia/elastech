@@ -1,4 +1,4 @@
-package br.com.elastech.aula14.pessoa;
+package br.com.elastech.aula14.heranca;
 
 public class Pessoa {
 

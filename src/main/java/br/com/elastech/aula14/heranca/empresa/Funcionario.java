@@ -1,4 +1,4 @@
-package br.com.elastech.aula14.empresa;
+package br.com.elastech.aula14.heranca.empresa;
 
 public class Funcionario {
 
