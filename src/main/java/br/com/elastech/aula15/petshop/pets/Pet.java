@@ -141,4 +141,8 @@ public class Pet {
                 pet.porte
         );
     }
+
+    public static void mostrarFicha(Pet pet) {
+        mostrarFicha(pet, "Ficha do pet");
+    }
 }
