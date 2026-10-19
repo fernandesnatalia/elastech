@@ -7,6 +7,7 @@ import br.com.elastech.aula19.empresa.notificacao.NotificadorSms;
 import br.com.elastech.aula19.empresa.pagamento.FolhaPagamento;
 
 public class Main {
+
     public static void main(String[] args) {
 
         Desenvolvedor d = new Desenvolvedor("Hercule Poirot", 5000);

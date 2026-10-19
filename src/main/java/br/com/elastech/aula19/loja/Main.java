@@ -3,6 +3,7 @@ package br.com.elastech.aula19.loja;
 public class Main {
 
     public static void main(String[] args) {
+
         Produto produto = new Produto();
 
         produto.setNome("Sabre de luz");
