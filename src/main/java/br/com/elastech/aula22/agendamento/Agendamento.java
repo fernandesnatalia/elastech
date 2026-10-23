@@ -1,4 +1,4 @@
-package br.com.elastech.aula22;
+package br.com.elastech.aula22.agendamento;
 
 import lombok.Builder;
 
