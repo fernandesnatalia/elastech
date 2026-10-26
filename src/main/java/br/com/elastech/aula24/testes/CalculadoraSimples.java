@@ -1,4 +1,4 @@
-package br.com.elastech.aula24;
+package br.com.elastech.aula24.testes;
 
 public class CalculadoraSimples {
 

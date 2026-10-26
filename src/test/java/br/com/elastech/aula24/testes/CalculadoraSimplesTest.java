@@ -1,4 +1,4 @@
-package br.com.elastech.aula24;
+package br.com.elastech.aula24.testes;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
